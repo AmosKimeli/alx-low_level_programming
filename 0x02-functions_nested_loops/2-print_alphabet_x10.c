@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * prints_alphabet_x10 times - prints alpha 10 times
+ * print_alphabet_x10 - Check holberton
+ * Description: function uses _putchar function to print
+ * alphabet in lowercase 10 times
  */
 void print_alphabet_x10(void)
 {
