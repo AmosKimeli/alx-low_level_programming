@@ -6,7 +6,7 @@
  *
  * Return: 1 if the character is uppercase, 0 otherwise
  */
-int _isdigit(int c)
+int _isupper(int c)
 {
 	if (c >= 'A' && C <= 'Z')
 	{
